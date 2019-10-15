@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomeScreen renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "paddingBottom": 100,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 25,
+        "textAlign": "center",
+      }
+    }
+  >
+    Edit or remove this file.
+  </Text>
+</View>
+`;
