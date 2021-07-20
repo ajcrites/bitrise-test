@@ -22,7 +22,7 @@
   "prettier": "ts-config-mobiquity-react-native/prettier.config.js",
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.0",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "1.3.0",
     "react-navigation": "3.11.0",
     "react-redux": "7.1.0",
